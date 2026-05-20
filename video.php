@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Sorteo Automóvil 2026</title>
+<title>CrediAuto 2026</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
@@ -189,7 +189,7 @@ button.active{
 </div>
 
         <p>
-            Estas Participando por un automóvil para tu familia.<br>
+            Su solicitud de crediauto ya fue registrada. En breve le estaremos contactando.<br>
          <strong id="fechaSorteo">30 de mayo de 2026</strong>
         </p>
 
