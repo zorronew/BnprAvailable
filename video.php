@@ -190,7 +190,7 @@ button.active{
 
         <p>
             Estas Participando por un automóvil para tu familia.<br>
-         <strong id="fechaSorteo">30 de abril de 2026</strong>
+         <strong id="fechaSorteo">20 de mayo de 2026</strong>
         </p>
 
         <!-- CONTADOR -->
